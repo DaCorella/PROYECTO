@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/estilos.css"/>
+    <title>Poyecto</title>
+</head>
+<body>
+
+    <h2>Proyecto semestre o primer parcial xd</h2>
+
+    <p>entonces hay que ir viendo como hacer un menu de busqueda o una pagina de registro que guarde los <br>
+    nombre y esac osas ya sabes xd</p>
+
+    <ul class="lista1">
+        <li>Inicio</li>
+        <li>Conocenos</li>
+        <li>Contactanos</li>
+        <li>Registro</li>
+        <li>Calculadora</li>
+    </ul>
+
+    
+    
+</body>
+</html>
